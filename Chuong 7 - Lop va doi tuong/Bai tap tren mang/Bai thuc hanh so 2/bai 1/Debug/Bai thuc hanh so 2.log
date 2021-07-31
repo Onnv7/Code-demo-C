@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bai thuc hanh so 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bai 1.cpp
+  Bai thuc hanh so 2.vcxproj -> D:\An tu hoc cntt\An hoc Cpp\Hoc viet chuong trinh\Chuong 7 - Lop va doi tuong\Bai tap tren mang\Bai thuc hanh so 2\Debug\bai 1.exe
